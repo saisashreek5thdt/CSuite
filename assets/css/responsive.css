@@ -1,0 +1,258 @@
+
+@media only screen and (min-device-width : 1701px) and (max-device-width : 1920px) {
+    .c_txt{
+        font-size: 12rem;
+    }
+    .suite_txt{
+        font-size: 12rem;
+    }
+    .emporing{
+        font-size: 4rem;
+        margin-top: -30px;
+    }
+    .btn{
+        font-size: 3rem;
+        padding: 20px;
+    }
+    .m_left{
+        margin-top: 250px;
+    }
+    .m_tp_60{
+        margin-top: 120px;
+    }
+    .a_txt{
+        font-size: 35rem;
+    }
+    .m_tp{
+        margin-top: 250px;
+    }
+    .inside_p{
+        width: 120px;
+        height: 120px;
+    }
+    .fnt_size_t1{
+        font-size: 4rem;
+    }
+    .fnt_size_t2 {
+        font-size: 2.5rem;
+    }
+    .left_logo_all{
+        width: 130px;
+        height: 130px;
+    }
+    .our_journy{
+        font-size: 5rem;
+    }
+    .m_tp_thre{
+        margin-top: 250px;
+    }
+    .jurn1{
+        bottom: -260px;
+    }
+    .jurn2{
+        bottom: -260px;
+    }
+    .jurn3{
+        bottom: -260px;
+    }
+    .jurn4{
+        bottom: -260px;
+    }
+}
+
+
+@media only screen and (max-width: 768px){
+    .m_left {
+        padding-left: 60px;
+       
+        text-align: center;
+    }
+    .left_thrd_cirl {
+        width: 250px;
+        height: 250px;
+        object-fit: contain;
+    }  
+    .a_txt{
+        font-size: 15rem;
+    }  
+    .fnt_size_t1{
+        font-size: 1.3rem;
+    }
+    .fnt_size_t2{
+        font-size: 1rem;
+    }
+    .inside_p{
+        width: 80px;
+        height: 80px;
+    }
+    .left_logo_all{
+        width: 70px;
+        height: 70px;
+    }
+    .send_txt_thre{
+        margin-left: 0px;
+    }
+
+}
+
+
+@media only screen and (max-width: 425px){
+    .midle_img{
+        width: 10px;
+    }
+    .inner-header{
+        width: 100%;
+        height: 65vh;
+    }
+    .img_tp{
+        margin-left: 5%;
+    }
+    .midle_img{
+        width: 120px;
+        height: 120px;
+        object-fit: contain;
+    }
+    .suite{
+        color: white;
+        font-size: 38px;
+        margin-top: 28px;
+    }
+    .c_txt{
+        font-size: 3rem;
+    }
+    .suite_txt{
+        font-size: 3rem;
+    }
+    .emporing{
+        font-size: 1.3rem;
+    }
+    .left_logo_all {
+        width: 60px;
+        height: 60px;
+        object-fit: contain;
+    }
+    #your-element-selector{
+        width: 100%;
+        height: 100vh;
+    }
+    .send_bg{
+
+      
+        height: 100vh; 
+        position: relative;
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+        .m_left{
+            padding-left: 0px;
+            margin-top: 20px;
+        }
+        .tp_send{
+            font-size: 16px;
+            margin-left: 10px;
+        }
+        .send_txt{
+            font-size: 14px;
+            margin-left: 10px;
+        }
+        .inside_p{
+            color: black;
+            margin: 10px;
+            /* font-size: 40px; */
+            width: 51px;
+            height: 32px;
+           border: none;
+          }
+          .m_tp {
+            margin-top: 47px;
+        }
+        .send_txt_c {
+            font-size: 25px;
+            float: left;
+        }
+        .m_sml_left{
+            margin-left: 180px;
+        }
+
+        .m_left_thre{
+            margin-top: 0px;
+        }
+        .left_thrd_cirl{
+            width: 150px;
+            height: 150px;
+            object-fit: contain;
+        }
+        .our_journy {
+            font-size: 39px;
+            color: white;
+            text-align: right;
+        }
+        .m_tp_thre {
+            margin-top: 40px;
+          padding-left: 100px;
+        }
+        .a_txt{
+            font-size: 5rem;
+        }
+        .fnt_size_t1{
+            font-size: 1.3rem;
+        }
+        .fnt_size_t2{
+            font-size: 1rem;
+        }
+        .jurn1{
+            width: 40px;
+            height: 60px;
+            position: absolute;
+            bottom: 0px;
+            background-color: #79ADE2;
+            -moz-box-shadow: 10px 10px 5px #222;
+          -webkit-box-shadow: 10px 10px 5px #222;
+          box-shadow: 10px 10px 5px #222;
+          }
+          .jurn2{
+            width: 40px;
+            height: 120px;
+            position: absolute;
+            bottom: 0px;
+            background-color: #9879E2;
+            left: 20%;
+            -moz-box-shadow: 10px 10px 5px #222;
+          -webkit-box-shadow: 10px 10px 5px #222;
+          box-shadow: 10px 10px 5px #222;
+          }
+          .jurn3{
+            width: 40px;
+            height: 180px;
+            position: absolute;
+            bottom: 0px;
+            background-color: #E2CD79;
+           left: 40%;
+           -moz-box-shadow: 10px 10px 5px #222;
+          -webkit-box-shadow: 10px 10px 5px #222;
+          box-shadow: 10px 10px 5px #222;
+          }
+          .jurn4{
+            width: 40px;
+            height: 240px;
+            position: absolute;
+            bottom: 0px;
+            background-color: #E279DF;
+           left: 60%;
+           -moz-box-shadow: 10px 10px 5px #222;
+          -webkit-box-shadow: 10px 10px 5px #222;
+          box-shadow: 10px 10px 5px #222;
+          }
+          .send_txt_thre{
+              margin-left: 50px;
+          }
+          
+
+}
+
+@media only screen and (max-width: 320px){
+    .m_sml_left{
+        margin-left: 100px;
+    }
+}
