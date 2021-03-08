@@ -64,6 +64,18 @@
 	color: #BEB0B0;
 }
 
+
+svg{
+	font-family: impact, sans-serif;
+}
+video {
+	-webkit-clip-path: url(#clip);
+	clip-path: url(#clip);
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+}
+
 body {
 	margin: 0;
 	height: 100vh;
